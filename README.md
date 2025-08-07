@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/AtwaniGG](github.com/AtwaniGG)
 
-- 💬 Ask me about **Python 🐍**
+- 💬 Ask me about **C++ and Python 🐍**
 
 - 📫 How to reach me **mohdatw3@gamil.com**
 
