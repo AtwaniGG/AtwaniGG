@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [S&P 500 Predictor](https://github.com/AtwaniGG/S-P500-Predictor)
 
-- 🌱 I’m currently learning **Machine Learning🤖**
-
 - 🤝 I’m looking for help with **DevOps**
 
 - 💬 Ask me about **C++ and Python 🐍**
