@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Mohammed Atwani</h1>
-<h3 align="center">UOWD CS ’26 | Software Development | Python · C++</h3>
+<h3 align="center">UOWD CS ’26 | AI & Big Data | Python · C++</h3>
 
 - 🔭 I’m currently working on [S&P 500 Predictor](https://github.com/AtwaniGG/S-P500-Predictor)
 
