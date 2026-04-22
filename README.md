@@ -49,7 +49,7 @@
   <a href="https://discord.com/users/atwanigg" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="Mohdatw3@Gmail.com" target="_blank">
+  <a href="mailto:Mohdatw3@Gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mohammed-atwani-b5b1a5354/" target="_blank">
