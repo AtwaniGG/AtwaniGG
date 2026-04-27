@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋!
-  I'm Mohammed Atwani and I'm an up and coming software engineering</h2>
+  I'm Mohammed Atwani and I'm an up and coming software engineer</h2>
 
 ###
 
