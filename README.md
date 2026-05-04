@@ -4,7 +4,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atwanigg&theme=dracula&show_icons=true&hide_border=true&count_private=true" height="180" alt="atwanigg's Stats"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atwanigg&theme=dracula&show_icons=true&hide_border=true&layout=compact" height="180" alt="atwanigg's Top Languages"  />
 </div>
 
